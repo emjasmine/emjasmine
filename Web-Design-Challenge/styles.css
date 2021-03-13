@@ -1,0 +1,77 @@
+.navbar {background-color: slategrey; padding: 10px;}
+.navbar a{ text-decoration: none; color: black;}
+
+.responsive {
+    width: 100%;
+    height: auto;
+  }
+
+#summary{
+    padding: 20px;
+}
+
+#viz_clicks{
+    padding: 20px;
+}
+
+#MaxPage{
+    text-align: center;
+    padding: 20px;
+}
+
+#HumidPage{
+    text-align: center;
+    padding: 10px;
+}
+
+#WindPage{
+    text-align: center;
+    padding: 10px;
+}
+
+#CloudPage{
+    text-align: center;
+    padding: 10px;
+}
+
+ul.dropdown_menu{
+    justify-content: left;
+}
+thead{
+    background-color: slategray;
+}
+
+.container{
+    background-color: silver;
+    padding: 50px;
+    justify-content: center;
+}
+
+.main {
+    padding: 20px;
+}
+
+body{/* Set a background image by replacing the URL below */
+background: 
+url('../Resources/bkgrd.jpg') 
+no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+-o-background-size: cover;
+}
+
+h1{
+    color: mediumblue;
+    font-size:xx-large;
+    text-align: center;
+}
+
+h2{
+    font-size: xlarge;
+    text-align:left;
+}
+
+p{
+    padding: 10px;
+}
