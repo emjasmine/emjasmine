@@ -53,7 +53,7 @@ thead{
 
 body{/* Set a background image by replacing the URL below */
 background: 
-url('../Resources/bkgrd.jpg') 
+url('Resources/bkgrd.jpg') 
 no-repeat center center fixed;
 -webkit-background-size: cover;
 -moz-background-size: cover;
